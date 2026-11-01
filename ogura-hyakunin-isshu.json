@@ -2330,6 +2330,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 100,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ogura-hyakunin-isshu",
   "work": "小倉百人一首",
@@ -2342,7 +2346,7 @@
   "blocks": 100,
   "chars": 2720,
   "poems": 100,
-  "yaku": 0,
+  "yaku": 100,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T06:49:51+09:00"
